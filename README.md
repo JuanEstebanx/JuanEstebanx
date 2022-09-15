@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanEstebanx Web Developer JR. 
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, 
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, MYSQL, GIT, SHOPIFY.
 - 🌱 I’m learning now React.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email - Phone - Linkedin => https://www.linkedin.com/in/leider-juan-esteban-rolon-burgos-3530741a2/
